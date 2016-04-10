@@ -1,0 +1,2 @@
+c:\users\drea\documents\visual studio 2015\Projects\AntiAFK\AntiAFK\bin\Debug\AntiAFK.exe.config
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Debug\AntiAFK.exe.config

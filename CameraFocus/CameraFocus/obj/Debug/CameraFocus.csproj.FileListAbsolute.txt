@@ -1,0 +1,2 @@
+c:\users\drea\documents\visual studio 2015\Projects\CameraFocus\CameraFocus\bin\Debug\CameraFocus.exe.config
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Debug\CameraFocus.exe.config

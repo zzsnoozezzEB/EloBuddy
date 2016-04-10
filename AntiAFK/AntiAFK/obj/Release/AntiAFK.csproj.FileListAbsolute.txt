@@ -1,0 +1,10 @@
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Release\AntiAFK.exe.config
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Release\AntiAFK.exe
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Release\AntiAFK.pdb
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Release\EloBuddy.dll
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Release\EloBuddy.SDK.dll
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Release\SharpDX.dll
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\bin\Release\Newtonsoft.Json.dll
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\obj\Release\AntiAFK.exe
+C:\Users\Drea\Documents\GitHub\EB\AntiAFK\AntiAFK\obj\Release\AntiAFK.pdb

@@ -1,0 +1,10 @@
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Release\CameraFocus.exe.config
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Release\CameraFocus.exe
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Release\CameraFocus.pdb
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Release\EloBuddy.dll
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Release\EloBuddy.SDK.dll
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Release\SharpDX.dll
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\bin\Release\Newtonsoft.Json.dll
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\obj\Release\CameraFocus.exe
+C:\Users\Drea\Documents\PublicGithub\EloBuddy\CameraFocus\CameraFocus\obj\Release\CameraFocus.pdb
